@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3bb92ac-f0f9-4fe9-b89f-eb873791da1e" name="更改" comment="1">
+      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.15.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hutool-all-5.8.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjh/ui/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wjh/ui/userinfo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzlegame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wjh/ui/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wjh/ui/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wjh/ui/LoginJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wjh/ui/LoginJFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wjh/ui/RegisterJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wjh/ui/RegisterJFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2XbKjBiewFam21W3m7N1koGeuRL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,6 +50,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,6 +85,10 @@
       <option name="presentableId" value="Default" />
       <updated>1698892473462</updated>
       <workItem from="1698892474508" duration="441000" />
+      <workItem from="1699068374362" duration="191000" />
+      <workItem from="1699069583223" duration="168000" />
+      <workItem from="1701347873015" duration="3163000" />
+      <workItem from="1701351160802" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -81,11 +98,30 @@
       <option name="project" value="LOCAL" />
       <updated>1698892619980</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1699068556378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699068556378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
